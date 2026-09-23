@@ -530,7 +530,7 @@ The saved comparisons use the same start token and seed, with temperatures 0.3, 
 | 0.8 | the different system was mentioned in the data report yesterday . |
 | 1.2 | the report about the brand explains the quality in detail . |
 
-All four classroom samples at 0.8 and 1.2 were identical in this saved comparison. The expanded fourth sample changed at each temperature, while several others stayed the same. A higher temperature does not guarantee visibly different or better output. Full files retain every temperature sample.
+All four classroom samples at 0.8 and 1.2 were identical in this saved comparison. The expanded fourth sample was identical at 0.3 and 0.8 and changed at 1.2, while several other samples stayed the same. A higher temperature does not guarantee visibly different or better output. Full files retain every temperature sample.
 
 ## Three actual chat interactions
 

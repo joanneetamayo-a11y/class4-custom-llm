@@ -1,0 +1,21 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+/llm_runs/
+names.txt
+.DS_Store
+/corpus/*
+!/corpus/README.md
+
+/results/
+/chat_transcript.json
+
+# Keep the two original teaching sources in the shared project.
+!/corpus/sequence.txt
+!/corpus/spatial_relations.txt
+# Local preparation and failed setup artifacts are not experiment evidence.
+/setup_diagnostics/
+/classroom_executed.ipynb
+/teaching_drafts/
+/verification/
+/class4_submission.zip

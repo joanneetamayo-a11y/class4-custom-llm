@@ -1,0 +1,35 @@
+{
+  "model_sha256": "f94f585155c69c10721329fc351a78347b3ed78685216cad0129b981ffdc45d8",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "an errand",
+      "seed": 2026,
+      "response": "drawer and the different program the security and code .",
+      "unknown_prompt_words": [
+        "an",
+        "errand"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "a dry erase board",
+      "seed": 2027,
+      "response": "the left the bicycle .",
+      "unknown_prompt_words": [
+        "erase"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "before you open the box",
+      "seed": 2028,
+      "response": ", read the put on the put .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    }
+  ]
+}

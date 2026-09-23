@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "sequence.txt",
+      "bytes": 7356,
+      "sha256": "48687c94652c15cf8983e302a4e253a9644a0508f3f6e6315fb9cf6b0582f13b",
+      "warnings": [],
+      "characters": 7356,
+      "passages": 186,
+      "unique_passages": 186,
+      "preview": "First peel the orange; next slice the orange. The final task is to slice the orange.\nBefore you slice the orange, peel the orange. The earlier task is to peel the orange.\nAfter you peel the orange, slice the orange. The later task is to slice the orange.\nTwo actions are planned: peel the orange, the"
+    },
+    {
+      "file": "spatial_relations.txt",
+      "bytes": 5993,
+      "sha256": "a783774c497b540fd90a66f1fa2d042be8067971bd92fd9b399ce575be66eb6f",
+      "warnings": [],
+      "characters": 5993,
+      "passages": 175,
+      "unique_passages": 175,
+      "preview": "A cup contains a coin. The coin rests inside this cup.\nLook inside this cup to find a coin. This container holds the coin.\nWe put a coin into a cup. Now the coin is inside.\nA coin was taken out of a cup. It is now outside the cup.\nA drawer contains a pencil. The pencil rests inside this drawer.\nLook"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 361,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 4953,
+  "new_unique_passages": 361,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

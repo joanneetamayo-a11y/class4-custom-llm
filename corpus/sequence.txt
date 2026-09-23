@@ -1,0 +1,93 @@
+First peel the orange; next slice the orange. The final task is to slice the orange.
+Before you slice the orange, peel the orange. The earlier task is to peel the orange.
+After you peel the orange, slice the orange. The later task is to slice the orange.
+Two actions are planned: peel the orange, then slice the orange. Start by choosing to peel the orange.
+The last task is to slice the orange. The first action is to peel the orange.
+First open the jar; next fill the bowl. The final task is to fill the bowl.
+Before you fill the bowl, open the jar. The earlier task is to open the jar.
+After you open the jar, fill the bowl. The later task is to fill the bowl.
+Two actions are planned: open the jar, then fill the bowl. Start by choosing to open the jar.
+The last task is to fill the bowl. The first action is to open the jar.
+First buy a ticket; next board the train. The final task is to board the train.
+Before you board the train, buy a ticket. The earlier task is to buy a ticket.
+After you buy a ticket, board the train. The later task is to board the train.
+Two actions are planned: buy a ticket, then board the train. Start by choosing to buy a ticket.
+The last task is to board the train. The first action is to buy a ticket.
+First wash the plate; next dry the plate. The final task is to dry the plate.
+Before you dry the plate, wash the plate. The earlier task is to wash the plate.
+After you wash the plate, dry the plate. The later task is to dry the plate.
+Two actions are planned: wash the plate, then dry the plate. Start by choosing to wash the plate.
+The last task is to dry the plate. The first action is to wash the plate.
+First read the recipe; next bake the bread. The final task is to bake the bread.
+Before you bake the bread, read the recipe. The earlier task is to read the recipe.
+After you read the recipe, bake the bread. The later task is to bake the bread.
+Two actions are planned: read the recipe, then bake the bread. Start by choosing to read the recipe.
+The last task is to bake the bread. The first action is to read the recipe.
+First pack the bag; next leave the house. The final task is to leave the house.
+Before you leave the house, pack the bag. The earlier task is to pack the bag.
+After you pack the bag, leave the house. The later task is to leave the house.
+Two actions are planned: pack the bag, then leave the house. Start by choosing to pack the bag.
+The last task is to leave the house. The first action is to pack the bag.
+First draw a picture; next paint the picture. The final task is to paint the picture.
+Before you paint the picture, draw a picture. The earlier task is to draw a picture.
+After you draw a picture, paint the picture. The later task is to paint the picture.
+Two actions are planned: draw a picture, then paint the picture. Start by choosing to draw a picture.
+The last task is to paint the picture. The first action is to draw a picture.
+First unlock the gate; next enter the garden. The final task is to enter the garden.
+Before you enter the garden, unlock the gate. The earlier task is to unlock the gate.
+After you unlock the gate, enter the garden. The later task is to enter the garden.
+Two actions are planned: unlock the gate, then enter the garden. Start by choosing to unlock the gate.
+The last task is to enter the garden. The first action is to unlock the gate.
+First write a letter; next mail the letter. The final task is to mail the letter.
+Before you mail the letter, write a letter. The earlier task is to write a letter.
+After you write a letter, mail the letter. The later task is to mail the letter.
+Two actions are planned: write a letter, then mail the letter. Start by choosing to write a letter.
+The last task is to mail the letter. The first action is to write a letter.
+First plant a seed; next water the soil. The final task is to water the soil.
+Before you water the soil, plant a seed. The earlier task is to plant a seed.
+After you plant a seed, water the soil. The later task is to water the soil.
+Two actions are planned: plant a seed, then water the soil. Start by choosing to plant a seed.
+The last task is to water the soil. The first action is to plant a seed.
+First turn on the light; next read the book. The final task is to read the book.
+Before you read the book, turn on the light. The earlier task is to turn on the light.
+After you turn on the light, read the book. The later task is to read the book.
+Two actions are planned: turn on the light, then read the book. Start by choosing to turn on the light.
+The last task is to read the book. The first action is to turn on the light.
+First put on shoes; next walk outside. The final task is to walk outside.
+Before you walk outside, put on shoes. The earlier task is to put on shoes.
+After you put on shoes, walk outside. The later task is to walk outside.
+Two actions are planned: put on shoes, then walk outside. Start by choosing to put on shoes.
+The last task is to walk outside. The first action is to put on shoes.
+breakfast comes before dinner. Of these events, dinner is later.
+dinner follows breakfast. Of these events, breakfast is earlier.
+We finish breakfast and then begin dinner. The second event is dinner.
+lunch comes before supper. Of these events, supper is later.
+supper follows lunch. Of these events, lunch is earlier.
+We finish lunch and then begin supper. The second event is supper.
+practice comes before the concert. Of these events, the concert is later.
+the concert follows practice. Of these events, practice is earlier.
+We finish practice and then begin the concert. The second event is the concert.
+sunrise comes before sunset. Of these events, sunset is later.
+sunset follows sunrise. Of these events, sunrise is earlier.
+We finish sunrise and then begin sunset. The second event is sunset.
+the lesson comes before the quiz. Of these events, the quiz is later.
+the quiz follows the lesson. Of these events, the lesson is earlier.
+We finish the lesson and then begin the quiz. The second event is the quiz.
+the game comes before the celebration. Of these events, the celebration is later.
+the celebration follows the game. Of these events, the game is earlier.
+We finish the game and then begin the celebration. The second event is the celebration.
+At the station a taxi arrived first and a bicycle arrived second. The taxi was early.
+At noon the bicycle arrived after a taxi. The bicycle was the later arrival.
+A taxi left before a bicycle. The first vehicle to leave was a taxi.
+At the station a car arrived first and a train arrived second. The car was early.
+At noon the train arrived after a car. The train was the later arrival.
+A car left before a train. The first vehicle to leave was a car.
+At the station a bus arrived first and a truck arrived second. The bus was early.
+At noon the truck arrived after a bus. The truck was the later arrival.
+A bus left before a truck. The first vehicle to leave was a bus.
+At the station a boat arrived first and a car arrived second. The boat was early.
+At noon the car arrived after a boat. The car was the later arrival.
+A boat left before a car. The first vehicle to leave was a boat.
+At the station a truck arrived first and a taxi arrived second. The truck was early.
+At noon the taxi arrived after a truck. The taxi was the later arrival.
+A truck left before a taxi. The first vehicle to leave was a truck.

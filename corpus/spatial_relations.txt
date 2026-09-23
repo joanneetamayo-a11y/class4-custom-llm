@@ -1,0 +1,92 @@
+A cup contains a coin. The coin rests inside this cup.
+Look inside this cup to find a coin. This container holds the coin.
+We put a coin into a cup. Now the coin is inside.
+A coin was taken out of a cup. It is now outside the cup.
+A drawer contains a pencil. The pencil rests inside this drawer.
+Look inside this drawer to find a pencil. This container holds the pencil.
+We put a pencil into a drawer. Now the pencil is inside.
+A pencil was taken out of a drawer. It is now outside the drawer.
+A bag contains a key. The key rests inside this bag.
+Look inside this bag to find a key. This container holds the key.
+We put a key into a bag. Now the key is inside.
+A key was taken out of a bag. It is now outside the bag.
+A box contains a book. The book rests inside this box.
+Look inside this box to find a book. This container holds the book.
+We put a book into a box. Now the book is inside.
+A book was taken out of a box. It is now outside the box.
+A basket contains a apple. The apple rests inside this basket.
+Look inside this basket to find a apple. This container holds the apple.
+We put a apple into a basket. Now the apple is inside.
+A apple was taken out of a basket. It is now outside the basket.
+A cabinet contains a toy. The toy rests inside this cabinet.
+Look inside this cabinet to find a toy. This container holds the toy.
+We put a toy into a cabinet. Now the toy is inside.
+A toy was taken out of a cabinet. It is now outside the cabinet.
+A chest contains a shoe. The shoe rests inside this chest.
+Look inside this chest to find a shoe. This container holds the shoe.
+We put a shoe into a chest. Now the shoe is inside.
+A shoe was taken out of a chest. It is now outside the chest.
+A envelope contains a letter. The letter rests inside this envelope.
+Look inside this envelope to find a letter. This container holds the letter.
+We put a letter into a envelope. Now the letter is inside.
+A letter was taken out of a envelope. It is now outside the envelope.
+Above a chair hangs a shelf. The chair sits below the shelf.
+Below a shelf stands a chair. The shelf is higher than the chair.
+The chair is under the shelf, not above it.
+Place a shelf over the chair. The lower object is the chair.
+Above a desk hangs a clock. The desk sits below the clock.
+Below a clock stands a desk. The clock is higher than the desk.
+The desk is under the clock, not above it.
+Place a clock over the desk. The lower object is the desk.
+Above a rug hangs a lamp. The rug sits below the lamp.
+Below a lamp stands a rug. The lamp is higher than the rug.
+The rug is under the lamp, not above it.
+Place a lamp over the rug. The lower object is the rug.
+Above a sofa hangs a picture. The sofa sits below the picture.
+Below a picture stands a sofa. The picture is higher than the sofa.
+The sofa is under the picture, not above it.
+Place a picture over the sofa. The lower object is the sofa.
+Above a tree hangs a bird. The tree sits below the bird.
+Below a bird stands a tree. The bird is higher than the tree.
+The tree is under the bird, not above it.
+Place a bird over the tree. The lower object is the tree.
+Above a bench hangs a window. The bench sits below the window.
+Below a window stands a bench. The window is higher than the bench.
+The bench is under the window, not above it.
+Place a window over the bench. The lower object is the bench.
+Above a table hangs a basket. The table sits below the basket.
+Below a basket stands a table. The basket is higher than the table.
+The table is under the basket, not above it.
+Place a basket over the table. The lower object is the table.
+Above a sink hangs a mirror. The sink sits below the mirror.
+Below a mirror stands a sink. The mirror is higher than the sink.
+The sink is under the mirror, not above it.
+Place a mirror over the sink. The lower object is the sink.
+Place the cup on the left and the plate on the right. The plate is beside the cup.
+To the right of a cup sits a plate. To the left of that plate sits the cup.
+The plate has a cup on its left side. The cup has the plate on its right side.
+Place the ball on the left and the shoe on the right. The shoe is beside the ball.
+To the right of a ball sits a shoe. To the left of that shoe sits the ball.
+The shoe has a ball on its left side. The ball has the shoe on its right side.
+Place the book on the left and the lamp on the right. The lamp is beside the book.
+To the right of a book sits a lamp. To the left of that lamp sits the book.
+The lamp has a book on its left side. The book has the lamp on its right side.
+Place the bag on the left and the chair on the right. The chair is beside the bag.
+To the right of a bag sits a chair. To the left of that chair sits the bag.
+The chair has a bag on its left side. The bag has the chair on its right side.
+Place the desk on the left and the shelf on the right. The shelf is beside the desk.
+To the right of a desk sits a shelf. To the left of that shelf sits the desk.
+The shelf has a desk on its left side. The desk has the shelf on its right side.
+Place the box on the left and the basket on the right. The basket is beside the box.
+To the right of a box sits a basket. To the left of that basket sits the box.
+The basket has a box on its left side. The box has the basket on its right side.
+Place the tree on the left and the bench on the right. The bench is beside the tree.
+To the right of a tree sits a bench. To the left of that bench sits the tree.
+The bench has a tree on its left side. The tree has the bench on its right side.
+Place the car on the left and the bus on the right. The bus is beside the car.
+To the right of a car sits a bus. To the left of that bus sits the car.
+The bus has a car on its left side. The car has the bus on its right side.
+A map shows north at the top and south at the bottom.
+The school is north of the park. Going south from the school leads to the park.
+The bank is south of the market. Travel north from the bank to reach the market.
+Beside means next to something. A chair can stand beside a desk.

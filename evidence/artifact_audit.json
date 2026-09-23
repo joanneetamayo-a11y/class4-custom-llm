@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "classroom: all 48 original cases present at both stages; split disjoint; vocabulary sourced from training; no exact eval prompt in corpus.",
+    "expanded: all 48 original cases present at both stages; split disjoint; vocabulary sourced from training; no exact eval prompt in corpus.",
+    "Both teaching-file hashes match the expanded run; all three chat turns identify the expanded final model.",
+    "Updated expanded notebook: Section 10 executed; final chat prompt, response and run ID match transcript; all non-chat cell sources and outputs unchanged."
+  ],
+  "limitations": [
+    "Exact text checks are not a semantic leakage detector.",
+    "Fresh local saved-model evaluation stopped during stalled package imports; no successful rerun claimed."
+  ],
+  "source_sha256": {
+    "evals/language_evals.json": "e8affcd72841e3ed7da5c0b6b116327fe9f69c9abd66a1180d1d88ceaa3e17f7",
+    "run_evals.py": "da87f28d128344807512e2bac1cfc662b37ac2c7e4a32b84c09f1950e92d67a0",
+    "chat.py": "6152c8b7780f3b46fef5de38461adfc4b1a55df70ed106ca73ec5e9aded86d25",
+    "nanogpt_model.py": "7c01703240dbec5d554527dc666e35b3df8391d0b117fddc07afcf325a21d11c"
+  },
+  "expanded_notebook_sha256": "2e966c681c896757563f6ef7ed5c08edfc1da141a7d9747d7704d42b42472fbf"
+}
